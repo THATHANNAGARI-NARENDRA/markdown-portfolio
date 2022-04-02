@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+You can check out my other talks and streams at [https://lab.github.com/githubtraining/communicating-using-markdown](https://github.com/THATHANNAGARI-NARENDRA/markdown-portfolio/edit/add-images-links/_includes/03-links.md?pr=%2FTHATHANNAGARI-NARENDRA%2Fmarkdown-portfolio%2Fpull%2F3)
